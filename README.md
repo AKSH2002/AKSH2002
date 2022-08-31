@@ -1,8 +1,8 @@
-![Banner](https://indoanalytica.com/static/images/bannerr.gif)
+
 
 <h1 align="center">Hi 👋, I'm Aksh Darji</h1>
 <h3 align="center">Quick Learner | IT Engineer</h3>
-<img align="right" alter="Coding" width="400" src="https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
+<img align="right" alter="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aksh2002&label=Profile%20views&color=0e75b6&style=flat" alt="aksh2002" /> </p>
 
@@ -14,7 +14,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/AKSH2002](https://github.com/AKSH2002)
 
-- 📝 I regularly write articles on [https://aksh2002.github.io/ChainBlocker/](https://aksh2002.github.io/ChainBlocker/)
+- 📝 I regularly write blogs on [https://aksh2002.github.io/ChainBlocker/](https://aksh2002.github.io/ChainBlocker/)
 
 - 💬 Ask me about **Computer Networks**
 
