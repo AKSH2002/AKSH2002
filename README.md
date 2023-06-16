@@ -25,7 +25,7 @@
 - 📄 Know about my experiences [https://aksh2002.github.io/ChainBlocker/](https://aksh2002.github.io/ChainBlocker/) -->
 
 - ⚡ Fun fact - **If I could have any superpower, it would be the ability to turn chaos into
-order with just few lines of code.•.**
+order with just few lines of code.**
 
 <h3 align="left">Connect with me:</h3>
 <div align="center">
@@ -68,12 +68,12 @@ order with just few lines of code.•.**
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
+<!-- <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>   -->
 <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
 </div>
 
   
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aksh2002&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aksh2002&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   -->
 
 <br/>  
 
