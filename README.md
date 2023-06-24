@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently interning at  **IBM SkillsBuild** in the Filed of **Cyber Secutity (CS).**
 
-- 🌱 I’m currently learning **Cyber Security, Cloud Computing,DevOps, Artificial Intelligence, Ethical Hacking, Data Analysis and Visualization, Cryptography and Network Security, Computer Networks and Web Development.**
+- 🌱 I’m currently learning **Cyber Security, Cloud Computing, DevOps, Artificial Intelligence, Ethical Hacking, Data Analysis and Visualization, Cryptography and Network Security, Computer Networks, and Web Development.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AKSH2002](https://github.com/AKSH2002)
 
@@ -25,7 +25,7 @@
 - 📄 Know about my experiences [https://aksh2002.github.io/ChainBlocker/](https://aksh2002.github.io/ChainBlocker/) -->
 
 - ⚡ Fun fact - **If I could have any superpower, it would be the ability to turn chaos into
-order with just few lines of code.**
+order with just a few lines of code.**
 
 <h3 align="left">Connect with me:</h3>
 <div align="center">
@@ -80,3 +80,6 @@ order with just few lines of code.**
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aksh2002&show_icons=true&locale=en&layout=compact" alt="aksh2002" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aksh2002&" alt="aksh2002" /></p>
+
+
+![snake gif](https://github.com/AKSH2002/AKSH2002/blob/output/github-contribution-grid-snake.svg)
