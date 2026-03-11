@@ -113,8 +113,8 @@
 
 <div align="center">
 
-<img src="./profile/stats.svg" alt="Stats" width="48%" />
-<img src="./profile/top-langs.svg" alt="Top langs" width="48%" />
+<img src="https://raw.githubusercontent.com/AKSH2002/AKSH2002/master/profile/stats.svg" alt="Stats" width="48%" />
+<img src="https://raw.githubusercontent.com/AKSH2002/AKSH2002/master/profile/top-langs.svg" alt="Top langs" width="48%" />
 
 </div>
 
