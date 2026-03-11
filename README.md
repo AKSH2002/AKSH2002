@@ -1,89 +1,161 @@
-
-
-<h1 align="center">Hi 👋, I'm Aksh Darji</h1>
-<h3 align="center">Quick Learner | IT Engineer</h3>
-<img align="right" alter="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aksh2002&label=Profile%20views&color=0e75b6&style=flat" alt="aksh2002" /> </p>
-
-<p align="left"> <a href="https://linkedin.com/in/aksh-darji-127316210" target="blank"><img src="https://img.shields.io/twitter/follow/Aksh Darji?logo=linkedin&style=for-the-badge" alt="akshdarji_135" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/akshdarji_135" target="blank"><img src="https://img.shields.io/twitter/follow/akshdarji_135?logo=twitter&style=for-the-badge" alt="akshdarji_135" /></a> </p>
-
-- 🔭 I’m currently looking for the **opportunity** where I can leverage my knowledge in **DevOps** and other **IT areas.**
-
-- 🌱 I’m currently learning **DevOps, Docker, Jenkins, Kubernetes, Chef, Ansible, Cloud Computing, Cyber Security, Ethical Hacking, Data Analysis and Visualization, Cryptography and Network Security, Computer Networks, and Web Development.**
-
-- 👨‍💻 My Portfolio [https://aksh2002.github.io/Aksh-Portfolio/](https://aksh2002.github.io/Aksh-Portfolio/)
-
-- 📝 I regularly write blogs on [https://aksh2002.hashnode.dev/](https://aksh2002.hashnode.dev/)
-
-- 💬 Ask me about **DevOps**
-
-- 📫 How to reach me **akshdarji2019@gmail.com**
-<!-- 
-- 📄 Know about my experiences [https://aksh2002.github.io/ChainBlocker/](https://aksh2002.github.io/ChainBlocker/) -->
-
-- ⚡ Fun fact - **If I could have any superpower, it would be the ability to turn chaos into
-order with just a few lines of code.**
-
-<h3 align="left">Connect with me:</h3>
 <div align="center">
-<a href="https://linkedin.com/in/aksh-darji-127316210" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-<a href="https://twitter.com/akshdarji_135" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/akshdarji_135" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://aksh2002.hashnode.dev/" target="_blank">
-<img src=https://img.shields.io/badge/hashnode-%232962FF.svg?&style=for-the-badge&logo=hashnode&logoColor=white alt=hashnode style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/aksh2002" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</a>
-<a href="https://leetcode.com/Aksh2002/" target="_blank">
-<img src=https://img.shields.io/badge/Leetcode-B0C4DE.svg?&style=for-the-badge&logo=leetcode&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-</div>  
 
+# Hi 👋 I'm Aksh Darji
 
-<h3 align="left">Languages and Tools:</h3>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1500&color=58A6FF&center=true&vCenter=true&width=520&lines=DevOps+Engineer;Terraform+%E2%80%A2+Kubernetes+%E2%80%A2+Ansible+%E2%80%A2+AWS;Building+systems+that+scale+%F0%9F%9A%80;IaC+%E2%80%A2+CI%2FCD+%E2%80%A2+Observability" alt="Typing SVG" />
 
-<div align="center">
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>    
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
-<a href="https://www.jenkins.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jenkins-icon.svg" alt="Jenkins" height="50" /></a>  
-<a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>   
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<!-- <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>   -->
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=AKSH2002&label=Profile%20views&color=0e75b6&style=flat" alt="views" />
+<img src="https://img.shields.io/github/followers/AKSH2002?label=Followers&style=flat&color=0e75b6" alt="followers" />
+<a href="https://linkedin.com/in/aksh-darji-127316210"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" alt="LinkedIn" /></a>
+<a href="https://twitter.com/akshdarji_135"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter" alt="Twitter" /></a>
+
 </div>
 
-  
-<!-- <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=aksh2002&show_icons=true&count_private=true&hide_border=true" align="center" /></div>   -->
+---
 
-<br/>  
+<br/>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=aksh2002&show_icons=true&locale=en&layout=compact" alt="aksh2002" /></p>
+<table>
+<tr>
+<td width="55%">
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aksh2002&" alt="aksh2002" /></p>
+### 🧑‍💻 About me
 
+- **Role:** DevOps Engineer — cloud infrastructure & deployment automation on AWS.
+- **Stack:** IaC (Terraform / OpenTofu), **Ansible**, **Kubernetes** (tenant-based deployments), monitoring (CloudWatch, Slack), security (IAM rotation, PKI, TLS).
+- **Background:** Dev (Spring Boot, APIs, CI/CD) → full-time DevOps & platform engineering. I care about **automation that reduces toil** and **systems that scale**.
+- **Focus:** Kubernetes, GitOps, observability, and staying sharp on the stack.
 
-![snake gif](https://github.com/AKSH2002/AKSH2002/blob/output/github-contribution-grid-snake.svg)
+### 📌 Quick links
+
+| Link | |
+|------|---|
+| 👨‍💻 **Portfolio** | [aksh2002.github.io/Aksh-Portfolio](https://aksh2002.github.io/Aksh-Portfolio/) |
+| 📝 **Blog** | [aksh2002.hashnode.dev](https://aksh2002.hashnode.dev/) |
+| 💬 **Ask me about** | DevOps, CI/CD, Terraform, Ansible, Kubernetes, AWS |
+| 📫 **Reach me** | [akshdarji2019@gmail.com](mailto:akshdarji2019@gmail.com) |
+
+### 🤝 Connect
+
+<a href="https://linkedin.com/in/aksh-darji-127316210"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://twitter.com/akshdarji_135"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+<a href="https://instagram.com/akshdarji_135"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://aksh2002.hashnode.dev"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode" /></a>
+<a href="https://github.com/AKSH2002"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://leetcode.com/Aksh2002"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
+
+</td>
+<td width="45%" valign="top">
+
+<img src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" alt="Coding" width="360" />
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🛠️ Tech stack
+
+<table>
+<tr>
+<th>Cloud & IaC</th>
+<th>Containers & CI/CD</th>
+<th>Infra & Data</th>
+<th>Code & Script</th>
+</tr>
+<tr>
+<td>
+
+<a href="https://aws.amazon.com"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" /></a>
+<a href="https://www.terraform.io"><img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" alt="Terraform" /></a>
+<a href="https://opentofu.org"><img src="https://img.shields.io/badge/OpenTofu-7B42BC?style=flat-square&logo=opentofu&logoColor=white" alt="OpenTofu" /></a>
+
+</td>
+<td>
+
+<a href="https://www.docker.com"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" /></a>
+<a href="https://kubernetes.io"><img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" /></a>
+<a href="https://www.jenkins.io"><img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" /></a>
+<a href="https://www.ansible.com"><img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" alt="Ansible" /></a>
+<a href="https://gitlab.com"><img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" /></a>
+<a href="https://github.com"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /></a>
+
+</td>
+<td>
+
+<a href="https://www.nginx.com"><img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" /></a>
+<a href="https://www.mongodb.com"><img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" /></a>
+<a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" /></a>
+<a href="https://www.postgresql.org"><img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /></a>
+<a href="https://redis.io"><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" /></a>
+
+</td>
+<td>
+
+<a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
+<a href="https://www.java.com"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /></a>
+<a href="https://nodejs.org"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" /></a>
+<a href="https://www.linux.org"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" /></a>
+<a href="https://reactjs.org"><img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" /></a>
+
+</td>
+</tr>
+</table>
+
+---
+
+### 📊 GitHub stats & activity
+
+<!-- Stats generated by .github/workflows/readme-stats.yml. Run "Update README stats cards" in Actions once to generate. -->
+
+<div align="center">
+
+<img src="./profile/stats.svg" alt="Stats" width="48%" />
+<img src="./profile/top-langs.svg" alt="Top langs" width="48%" />
+
+</div>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=AKSH2002&theme=default&hide_border=true" alt="Streak" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 🏆 Profile trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=AKSH2002&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=8" alt="Trophies" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### 📈 Contribution graph (last 31 days)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AKSH2002&theme=github&hide_border=true&area=true" alt="Activity graph" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🐍 Contribution snake
+
+<img src="https://raw.githubusercontent.com/AKSH2002/AKSH2002/output/github-contribution-grid-snake.svg" alt="Snake" />
+
+---
+
+<img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F-blue" alt="Made with love" />
+
+*Turning chaos into order, one pipeline at a time.* 🚀
+
+</div>
