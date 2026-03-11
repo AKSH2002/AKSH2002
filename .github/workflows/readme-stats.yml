@@ -12,11 +12,14 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    concurrency: readme-stats-cards
     permissions:
       contents: write
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Ensure profile directory exists
         run: mkdir -p profile
@@ -38,9 +41,17 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit cards
+        env:
+          BRANCH: ${{ github.ref_name }}
         run: |
+          set -e
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git fetch origin "$BRANCH"
+          git reset --soft "origin/$BRANCH"
           mkdir -p profile
           git add profile/
-          git diff --staged --quiet || (git commit -m "chore: update README stats cards" && git push)
+          if ! git diff --staged --quiet; then
+            git commit -m "chore: update README stats cards"
+            git push origin "$BRANCH"
+          fi
